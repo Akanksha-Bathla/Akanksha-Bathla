@@ -7,7 +7,7 @@
 - 🏄‍ ML Enthusiast
 - 🤝 I am eager to dive in both tech and non-tech roles
 - 🌱 I’m currently learning Deep Learning.
-- 📫 How to reach me: mail me at [akanshabathla041003@gmail.com](mailto:akanshabathla041003@gmail.com)
+- 📫 How to reach me: mail me at [akankshabathla.18.22.26@gmail.com](mailto:akankshabathla.18.22.26@gmail.com)
 ---
 
 ### Languages and Tools:
