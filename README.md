@@ -1,12 +1,11 @@
-# Akanksha Bathla
+## Web & Game Development Enthusiast | MERN Stack & Unity Developer, 
 
-## Hi there 👋,
-#### A passionate AI and machine learning enthusiast, I thrive on solving complex problems through innovative solutions. With experience in predictive modeling and deep learning applications, I have a proven track record of enhancing user experiences and contributing to published research. My technical skills in C++, MySQL, and Python, combined with a strong academic background, drive my commitment to continuous learning and collaboration.
+#### A passionate developer with a love for both web and game development, I enjoy building interactive applications and immersive gaming experiences. Skilled in MERN stack, Unity, and Pygame, I focus on crafting scalable web solutions and engaging gameplay mechanics. Whether it's designing dynamic websites or developing challenging game levels, I thrive on solving complex problems through code.
 
 ## 🧐 About
-- 🏄‍ ML Enthusiast
-- 🤝 I am eager to dive in both tech and non-tech roles
-- 🌱 I’m currently learning Deep Learning.
+- 💻 Web & Game Dev Enthusiast
+- ⚡ Building interactive web apps and immersive games
+- 🌱 Currently learning advanced MERN stack & game AI mechanics
 - 📫 How to reach me: mail me at [akankshabathla.18.22.26@gmail.com](mailto:akankshabathla.18.22.26@gmail.com)
 ---
 
