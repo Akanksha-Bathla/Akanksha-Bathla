@@ -33,3 +33,5 @@ I’m passionate about creating interactive web apps and immersive game experien
 - **GitHub:** Akanksha-Bathla(https://github.com/Akanksha-Bathla/)
 
 Let’s connect and build something amazing! 🚀
+
+![snake gif](https://github.com/Akanksha-Bathla/Akanksha-Bathla/blob/output/github-snake-dark.svg)
