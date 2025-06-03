@@ -20,9 +20,10 @@ jobs:
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       # 🎨 Post-process SVG to change the snake color
-      - name: Change snake color in SVG
+      - name: Change snake color using perl
         run: |
-          sed --follow-symlinks -i 's/#6e40c9/#E63946/g' dist/github-contribution-grid-snake.svg
+          perl -pi -e 's/#6e40c9/#E63946/g' dist/github-contribution-grid-snake.svg
+
 
 
       - run: git status
