@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF7F00&center=true&vCenter=true&width=800&height=100&lines=console.log(%22Hello%20World!%22);print(%22%E2%9C%A8%20Welcome%20to%20My%20Profile%20%E2%9C%A8%22)" alt="Typing Animation">
 </p>
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
@@ -24,6 +25,7 @@
 ! 🎮 Secret Project: Next-gen Game Mechanics
 # 🌱 Learning: Cloud Architecture & AI/ML
 ```
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 # 🛠️ My Tech Arsenal
 
@@ -39,7 +41,7 @@
 ## 🔍 Data Science and ML
 <div align="center"> <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </div>
 
-
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ## 📊 GitHub Analytics
 <p align="center"> 
@@ -48,12 +50,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akanksha-Bathla&layout=compact&theme=radical&langs_count=8" width="45%"> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akanksha-Bathla&theme=radical" width="48%"> </p><p align="center">
    </p>
-  
+
+  <img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ## 🐍✨ Watch this snake eat my contributions day by day! 🟩🟩🟩 → 🍽️💥
 ![snake gif](https://github.com/Akanksha-Bathla/Akanksha-Bathla/blob/output/github-snake-dark.svg)
 
-<br/>
+<img width="100%" src="https://github.com/lassiecoder/lassiecoder/assets/17312616/0e8c9521-a567-45d9-9a71-d2d7cf5c1d88">
 
 ## 🌟 Let's Collaborate
 <p align="center"> 
